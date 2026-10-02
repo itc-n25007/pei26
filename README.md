@@ -1,4 +1,4 @@
-Python Exam I (2026)授業用 
+# Python Exam I (2026)授業用 
  
 Python実行環境(20261002時点) 
 uv 0.12.22 (x86_64-unknown-linux-gnu) 
