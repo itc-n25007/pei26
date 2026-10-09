@@ -1,6 +1,6 @@
 a = 12
 b = 5
-print(b - a) # 5 - 12
+print(b - a) 
 print(abs(-7)) 
 print("{0:08b}".format(64)) 
 
